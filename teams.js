@@ -1,7 +1,7 @@
 // Team roster data for MGMT 6100 Spring 2026
 const SURVEY_CONFIG = {
   course: "MGMT 6100 Seminar in Organizational Behavior (Spring 2026)",
-  apiUrl: "PLACEHOLDER_API_URL",
+  apiUrl: "https://script.google.com/macros/s/AKfycbwa2YzChXUPVawiyipWzAM_Q46HoFwKzIAJyVUjLbsqd2MBMqWF9OkTCMD4kEh2--Wv/exec",
 
   activities: [
     "Team meeting 1",
