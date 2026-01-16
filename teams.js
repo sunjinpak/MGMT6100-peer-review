@@ -15,7 +15,6 @@ const SURVEY_CONFIG = {
     "Team meeting 9",
     "Team meeting 10",
     "Team meeting 11",
-    "Team meeting 12",
     "Team Presentation (Dates vary between teams)"
   ],
 
