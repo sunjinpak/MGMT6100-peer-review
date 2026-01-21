@@ -45,7 +45,7 @@ const SURVEY_CONFIG = {
     },
     {
       number: 7,
-      members: ["John Hinojosa", "Javier Orellana Mixco", "Luis Salazar"]
+      members: ["John Hinojosa", "Javier Orellana Mixco", "Luis Salazar", "Elijah Gutierrez"]
     },
     {
       number: 8,
@@ -90,6 +90,7 @@ const SURVEY_CONFIG = {
     "John Hinojosa": "jhinojosa10@csub.edu",
     "Javier Orellana Mixco": "jorellana@csub.edu",
     "Luis Salazar": "lsalazar9@csub.edu",
+    "Elijah Gutierrez": "Egutierrez72@csub.edu",
     // Team 8
     "Brycen South": "bsouth@csub.edu",
     "Nikhil Sutter": "nsutter@csub.edu",
