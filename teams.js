@@ -33,7 +33,7 @@ const SURVEY_CONFIG = {
     },
     {
       number: 4,
-      members: ["Lleyne Loya", "Zaima Mahmood", "Daniel Esmond"]
+      members: ["Lleyne Loya", "Zaima Mahmood", "John Velazquez"]
     },
     {
       number: 5,
@@ -49,7 +49,7 @@ const SURVEY_CONFIG = {
     },
     {
       number: 8,
-      members: ["Brycen South", "Nikhil Sutter", "Luis Valenzuela", "John Velazquez"]
+      members: ["Brycen South", "Nikhil Sutter", "Luis Valenzuela"]
     }
   ],
 
@@ -77,7 +77,7 @@ const SURVEY_CONFIG = {
     // Team 4
     "Lleyne Loya": "lloya1@csub.edu",
     "Zaima Mahmood": "zmahmood1@csub.edu",
-    "Daniel Esmond": "desmond@csub.edu",
+    "John Velazquez": "jvelazquez7@csub.edu",
     // Team 5
     "Araceli Ortega Hernandez": "aortega-hernandez@csub.edu",
     "Teresa Ortega Hernandez": "tortega-hernandez@csub.edu",
@@ -94,7 +94,6 @@ const SURVEY_CONFIG = {
     // Team 8
     "Brycen South": "bsouth@csub.edu",
     "Nikhil Sutter": "nsutter@csub.edu",
-    "Luis Valenzuela": "lvalenzueela@csub.edu",
-    "John Velazquez": "jvelazquez7@csub.edu"
+    "Luis Valenzuela": "lvalenzueela@csub.edu"
   }
 };
