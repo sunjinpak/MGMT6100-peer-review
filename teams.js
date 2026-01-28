@@ -41,7 +41,7 @@ const SURVEY_CONFIG = {
     },
     {
       number: 6,
-      members: ["Brenda Ruiz", "Jennifer Vielman", "Xavier Guzman Rivera"]
+      members: ["Brenda Ruiz", "Jenny (Jennifer) Vielman", "Xavier Guzman Rivera"]
     },
     {
       number: 7,
@@ -84,7 +84,7 @@ const SURVEY_CONFIG = {
     "Daniel Fox": "dfox7@csub.edu",
     // Team 6
     "Brenda Ruiz": "bruiz27@csub.edu",
-    "Jennifer Vielman": "jvielman@csub.edu",
+    "Jenny (Jennifer) Vielman": "jvielman@csub.edu",
     "Xavier Guzman Rivera": "xguzman-rivera@csub.edu",
     // Team 7
     "John Hinojosa": "jhinojosa10@csub.edu",
